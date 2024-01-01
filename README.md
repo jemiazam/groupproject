@@ -79,27 +79,29 @@ By offering a centralized platform that is convenient and easily accessible to a
    - Integrated messaging or discussion forums for members to communicate and connect.
    - Clubs may have their own communication channels for internal discussions.
 
+## ERD DIAGRAM
+![ERD](erd_diagram.jpg)
 
 ## SEQUENCE DIAGRAM
 
-![SEQUENCE](images\sequence_diagram.jpg)
+![SEQUENCE](sequence_diagram.jpg)
 
 ## PROTOTYPE
 
 Register/login Page
-![PROTOTYPE](images\login_page.png)
+![PROTOTYPE](login_page.png)
 
 Club Description Page
-![PROTOTYPE](images/Club_Description.png)
+![PROTOTYPE](Club_Description.png)
 
 Club Page
-![PROTOTYPE](images\Club.png)
+![PROTOTYPE](Club.png)
 
 Join Club Page
-![PROTOTYPE](images\Join_Club.png)
+![PROTOTYPE](Join_Club.png)
 
 Communication Page
-![PROTOTYPE](images\Friends.png)
+![PROTOTYPE](Friends.png)
 
 Notifications Page
-![PROTOTYPE](images\Notifications.png)
+![PROTOTYPE](Notifications.png)
