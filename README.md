@@ -103,8 +103,7 @@ Join Club Page
 Communication Page
 ![PROTOTYPE](Friends.png)
 
-Notifications Page
-![PROTOTYPE](Notifications.png)
+
 
 ## Challenges/difficulties to develop the application
 *1. Creating multiple routing and controller*
