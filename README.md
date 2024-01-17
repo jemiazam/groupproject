@@ -86,7 +86,7 @@ By offering a centralized platform that is convenient and easily accessible to a
 
 ![SEQUENCE](sequence_diagram.jpg)
 
-## PROTOTYPE
+## FINAL PRODUCT SYSTEM 
 
 Register/login Page
 ![PROTOTYPE](login_page.png)
@@ -105,3 +105,10 @@ Communication Page
 
 Notifications Page
 ![PROTOTYPE](Notifications.png)
+
+## Challenges/difficulties to develop the application
+*1. Creating multiple routing and controller*
+
+*2. Developing multiple views that function respectively*
+
+*3. Error and Exception Handling*
