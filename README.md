@@ -91,11 +91,8 @@ By offering a centralized platform that is convenient and easily accessible to a
 Register/login Page
 ![PROTOTYPE](login_page.png)
 
-Club Description Page
-![PROTOTYPE](Club_Description.png)
-
-Club Page
-![PROTOTYPE](Club.png)
+Home Page
+![PROTOTYPE](homepage.png)
 
 Join Club Page
 ![PROTOTYPE](Join_Club.png)
