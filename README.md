@@ -16,7 +16,11 @@ KAMARUL NAIM BIN RAZALI| 2121179
 
 # **CLUB REGISTRATION SYSTEM** 
 
+##LINK LARAVEL
 
+https://github.com/jemiazam/modifiedgroupproj
+
+We provided a different link for our files due to limited storage given by Github.
 
 
 
@@ -88,17 +92,23 @@ By offering a centralized platform that is convenient and easily accessible to a
 
 ## FINAL PRODUCT SYSTEM 
 
+Landing page
+![PROTOTYPE](landing_page.png)
+
+Login page
+![PROTOTYPE](login_page.png)
+
 Register/login Page
 ![PROTOTYPE](login_page.png)
 
 Home Page
 ![PROTOTYPE](homepage.png)
 
-Join Club Page
-![PROTOTYPE](Join_Club.png)
-
-Communication Page
+Friends Page
 ![PROTOTYPE](Friends.png)
+
+Add Club Page
+![PROTOTYPE](add_club.png)
 
 
 
